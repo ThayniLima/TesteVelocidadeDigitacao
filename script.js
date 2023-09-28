@@ -5,6 +5,7 @@ const resultado = document.querySelector("#resultado")
 const historico = document.querySelector("#historico")
 const alternarTemaBtn = document.querySelector("#alternarTema")
 
+
 const textos = [
     "Digite isso.",
     "Você pode digitar isso aqui.",
